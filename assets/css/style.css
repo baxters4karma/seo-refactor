@@ -48,7 +48,7 @@ header a {
 }
 
 
-p {
+header p {
     font-size: 16px;
 }
 
@@ -62,15 +62,13 @@ p {
     position: relative;
 }
 
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+}
+
+.topic {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -79,14 +77,36 @@ p {
     color: #ffffff;
 }
 
-.content img {
+.topic img {
     max-height: 200px;
+}
+
+.float-left {
     float: left;
+    margin-left: 0px;
     margin-right: 25px;
 }
 
-.content h2 {    
+.float-right {
+    float: right;
+    margin-left: 25px;
+    margin-right: 0px;
+}
+
+.topic-text {
+    display: contents;
+    padding: 35px;
+    float: right;
+}
+
+.topic-text h2 {    
+    margin-bottom: 20px;
+    display: block;
     font-size: 36px;
+}
+
+.topic-text p {    
+    font-size: 16px;
 }
 
 .benefits {
