@@ -48,7 +48,7 @@ THEN I find a concise, descriptive title
 
 ## Review/Deployment
 
-* Deployed Application: &nbsp; [Live URL](http://127.0.0.1:5500/c1-seo-refactor/index.html)
+* Deployed Application: &nbsp; [Live URL](https://baxters4karma.github.io/seo-refactor/)
 
 * GitHub Repository: &nbsp; [GitHub Repository URL](https://github.com/baxters4karma/seo-refactor)
 
