@@ -54,6 +54,8 @@ THEN I find a concise, descriptive title
 
 ## Usage
 
+This layout is designed for "desktop", so you may notice that some of the elements don't look like the Mock-Up when viewed at a resolution smaller than 768px. Future lessons will teach how to make elements "responsive" so that the  web application is optimized for any screen size.
+
 This particular website is best viewed on a wider screen and was not built with the mobile first method.  Please note the repositioning aspects were not yet incorporated since that is included in Module 2 work.
 
 ### Screenshots after Code Refactor
