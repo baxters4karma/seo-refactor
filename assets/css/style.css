@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* apply styles to header */
 header {
     padding: 20px 35px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +16,18 @@ header {
     color: #ffffff;
 }
 
+/* apply styles to h1's within header */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* change color of SEO text in company name */
 header h1 .seo {
     color: #d9dcd6;
 }
 
+/* apply styles to navigation components within header */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -46,10 +50,12 @@ header nav a {
     text-decoration: none;
 }
 
+/* apply styles to paragraphs within header */
 header p {
     font-size: 16px;
 }
 
+/* add image and apply styles to hero class */
 .hero {
     background-image: url("../images/digital-marketing-meeting.jpg");
     height: 600px;
@@ -60,12 +66,14 @@ header p {
     position: relative;
 }
 
+/* set container for content section */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* apply styles to topic components */
 .topic {
     margin-bottom: 20px;
     padding: 50px;
@@ -79,18 +87,21 @@ header p {
     max-height: 200px;
 }
 
+/* set images in content section to appear on left with appropriate margin settings */
 .float-left {
     float: left;
     margin-left: 0px;
     margin-right: 25px;
 }
 
+/* set images in content section to appear on right with appropriate margin settings */
 .float-right {
     float: right;
     margin-left: 25px;
     margin-right: 0px;
 }
 
+/* apply styles to topic text within content section */
 .topic-text {
     display: contents;
     padding: 35px;
@@ -107,6 +118,7 @@ header p {
     font-size: 16px;
 }
 
+/* set container for benefits section */
 .benefits {
     margin-right: 20px;
     margin-bottom: 0;
@@ -120,12 +132,14 @@ header p {
     color: #ffffff;
 }
 
+/* apply heading 3 style to topic headings */
 .benefits h3 {
     padding-top: 8px;
     margin-bottom: 10px;
     text-align: center;    
 }
 
+/* set container for benefit text and images */
 .benefit {
     margin-bottom: 32px;
 }
@@ -140,6 +154,7 @@ header p {
     font-size: 16px;
 }
 
+/* apply styles to footer elements */
 footer {
     padding: 30px;
     clear: both;
