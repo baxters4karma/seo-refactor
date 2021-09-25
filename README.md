@@ -4,7 +4,7 @@ Challenge Assignment 1, Use Semantic Tags
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities and/or socio-economic restrictions have access to their website. Accessible websites are better optimized for search engines, and help companies avoid litigation.
 
-This week's Challenge, was to refactor an existing webpage to make it accessible and to improve SEO. It's important to follow the Scout Rule when working with an existing codebase: Always leave the code a little cleaner than you found it.
+This week's Challenge was to refactor an existing webpage to make it accessible and to improve SEO. It's important to follow the Scout Rule when working with an existing codebase: Always leave the code a little cleaner than you found it.
 
 To impress the imaginary client for this Challenge, improve their codebase for long-term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, such as by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 
@@ -34,7 +34,7 @@ THEN I find a concise, descriptive title
 ### Technical
 
 * Application's links all function correctly.
-* Application's CSS selectors and properties are consolidated and organized to follow semantic strucrture.
+* Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
 * Application's CSS file is properly commented.
 
 ### Quality
@@ -48,33 +48,32 @@ THEN I find a concise, descriptive title
 
 ## Review/Deployment
 
-You are required to submit the following for review:
+* Deployed Application: &nbsp; [Live URL](http://127.0.0.1:5500/c1-seo-refactor/index.html)
 
-* The URL of the deployed application.
-  [Live URL](enter url here)
-
-* The URL of the GitHub repository. Give the repository a unique name and include a professional README describing the project.
-[GitHub Repository URL](enter url here)
+* GitHub Repository: &nbsp; [GitHub Repository URL](https://github.com/baxters4karma/seo-refactor)
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+This particular website is best viewed on a wider screen and was not built with the mobile first method.  Please note the repositioning aspects were not yet incorporated since that is included in Module 2 work.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+### Screenshots after Code Refactor
 
-```md
-[Screenshot of Website after Code Refactor]
-(./assets/images/mock-up_reFactored.png)
-```
+* [Navigation and Hero Sections](./assets/images/Horiseon-01-NavHero.jpg)
 
+* [Content Section](./assets/images/Horiseon-02-Content.jpg)
+
+* [Benefits Section](./assets/images/Horiseon-03-Benefits.jpg)
+
+* [Footer](./assets/images/Horiseon-04-Footer.jpg)
+
+### Screenshot before Code Refactor
+* [Mock-up](./assets/images/Horiseon-00-MockUp.png)
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+* Module 1: HTML, CSS, and Git bootcampspot material
+* Module 1 Class Activities
+* [Module 1 HTML CSS Git Challenge: Code Refactor](https://courses.bootcampspot.com/courses/798/assignments/17644?module_item_id=305929)
 
 ---
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
