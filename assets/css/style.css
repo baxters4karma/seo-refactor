@@ -41,12 +41,10 @@ header nav ul li {
     margin-left: 25px;    
 }
 
-header a {
-    margin: 0 30px;
+header nav a {
     color: #ffffff;
     text-decoration: none;
 }
-
 
 header p {
     font-size: 16px;
@@ -111,6 +109,7 @@ header p {
 
 .benefits {
     margin-right: 20px;
+    margin-bottom: 0;
     padding: 20px;
     clear: both;
     float: right;
@@ -122,6 +121,7 @@ header p {
 }
 
 .benefits h3 {
+    padding-top: 8px;
     margin-bottom: 10px;
     text-align: center;    
 }
@@ -133,20 +133,20 @@ header p {
 .benefit img {
     display: block;
     margin: 10px auto;
-    max-width: 125px;
+    max-width: 150px;
 }
 
 .benefit-text p {
     font-size: 16px;
 }
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
